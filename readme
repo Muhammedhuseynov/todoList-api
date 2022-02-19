@@ -1,0 +1,15 @@
+//go get github.com/gin-gonic/gin
+//go get github.com/go-sql-driver/mysql
+//go get -u gorm.io/gorm
+
+
+
+//insert data into table
+//    INSERT INTO todo (title,description) VALUES (
+//        "Learn Golang API",
+//        "GIN,GORM"
+//    )
+//    INSERT INTO todo (title,description) VALUES (
+//        "Cook Pizza",
+//        "Buy: Potato,Cheese"
+//    )
